@@ -1,5 +1,5 @@
-﻿# qwen3tts.cpp Windows Binary (Faster Qwen-tts using C++)
-
+﻿# qwen3tts.cpp Windows Binary (Faster QwenTTS Inference using C++)
+original repo : https://github.com/predict-woo/qwen3-tts.cpp
 Pre-built qwen3-tts-cli.exe for Windows (x64).
 
 ## Usage
