@@ -1,4 +1,4 @@
-﻿# qwen3tts.cpp Windows Binary
+﻿# qwen3tts.cpp Windows Binary (Faster Qwen-tts using C++)
 
 Pre-built qwen3-tts-cli.exe for Windows (x64).
 
