@@ -1,4 +1,4 @@
-﻿# qwen3-tts Windows Binary
+﻿# qwen3tts.cpp Windows Binary
 
 Pre-built qwen3-tts-cli.exe for Windows (x64).
 
