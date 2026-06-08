@@ -1,0 +1,4 @@
+﻿# Ignore models (download separately)
+models/
+*.gguf
+*.bin
